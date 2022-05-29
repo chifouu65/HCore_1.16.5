@@ -1,0 +1,4 @@
+name: HMain
+version: '${project.version}'
+main: fr.chifouu.hmain.HMain
+api-version: 1.16
